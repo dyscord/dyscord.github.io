@@ -10,7 +10,7 @@ Dyscord is a Discord Bot that will have many features like:
 
 Bear in mind this is a work-in-progress bot.
 
-### The People Behind It:tm:
+### The People Behind It™️
 
 - [**Lucien Gaitskell**](https://github.com/luciengaitskell)
 - [**Nadir Chowdhury**](https://github.com/ncplayz)
